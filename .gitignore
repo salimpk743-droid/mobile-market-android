@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+*.jks
+*.keystore
+*.p12
+keystore.properties
+keystore/password.txt
+keystore/*.jks
+keystore/*.keystore
+keystore/*.p12
+**/password.txt
+**/*secret*
