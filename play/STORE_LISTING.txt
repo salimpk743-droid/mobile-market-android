@@ -1,0 +1,15 @@
+App name: Mobile Market
+Short description (80 chars):
+Buy & sell used phones across Pakistan — PTA, city, photos.
+
+Full description:
+Mobile Market is the used-phone classifieds app for Pakistan.
+
+Search iPhone, Samsung, Xiaomi, Vivo, Oppo and more. Filter by brand, memory, PTA approved or non-PTA, and 200+ cities from Lahore and Karachi to smaller towns.
+
+Post an ad with photos, price, city and area. Edit the price later, mark it sold, relist, or delete it from My Ads.
+
+The app shows the same live marketplace as the website, with the same listings and seller tools.
+
+Category: Shopping
+Contact / privacy: https://market-place-six-chi.vercel.app/privacy.html
